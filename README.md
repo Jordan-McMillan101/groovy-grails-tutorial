@@ -2,7 +2,7 @@
 
 This tutorial is for someone who is new to
 **Technology stack:**
-  *
+
 
 
 ## Environment Setup (for Windows):
@@ -11,7 +11,7 @@ Download the following and export the files into the directory of your choice:
 
   1. Java - On the oracle website, accept the terms and agreements and download the file. Once downloaded it will prompt you to finish the installation.- [download from here](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
   2. Grails - [download from here](https://grails.org/download.html)
-  3. Groovy - [download from here]()
+  3. Groovy - [download from here](http://groovy-lang.org/download.html)
   
 
 Now that you have the needed files, start up powershell (**as administrator**) and run the following commands to setup the environment variables (**be sure to use your own file paths**):
@@ -38,7 +38,7 @@ Method Parameters:
 ~~~
 
 
-To double check that everything is ready to go run the following command in the terminal and you should be able to see the newly added items (** before you run this command restart your powershell**):
+To double check that everything is ready to go run the following command in the terminal and you should be able to see the newly added items (**before you run this command restart your powershell**):
 
 ~~~ sh
   Get-ChildItem Env:
@@ -46,6 +46,7 @@ To double check that everything is ready to go run the following command in the 
 
 
 ###Now choose your favorite text editor and start one of the following tutorials:
+
   1. tut 1
   2. tut 2
   3. tut 3
@@ -53,7 +54,7 @@ To double check that everything is ready to go run the following command in the 
 
 
 ## References:
-(documentation links, videos ect)
+
 * [Grails Documentation](https://grails.org/documentation.html)
 * [Groovy Documentation](http://groovy-lang.org/documentation.html)
 * [Useful grails commands](http://docs.grails.org/latest/ref/Command%20Line/Usage.html)

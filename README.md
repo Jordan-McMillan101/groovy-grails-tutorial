@@ -46,9 +46,9 @@ To double check that everything is ready to go run the following command in the 
 
 
 ###Now choose your favorite text editor and start one of the following tutorials:
-  *tut 1
-  *tut 2
-  *tut 3
+  1. tut 1
+  2. tut 2
+  3. tut 3
 
 
 

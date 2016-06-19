@@ -56,4 +56,5 @@ To double check that everything is ready to go run the following command in the 
 (documentation links, videos ect)
 * [Grails Documentation](https://grails.org/documentation.html)
 * [Groovy Documentation](http://groovy-lang.org/documentation.html)
+* [Useful grails commands](http://docs.grails.org/latest/ref/Command%20Line/Usage.html)
 * [Seminar on building a twitter clone with groovy/grails](https://www.youtube.com/watch?v=8d1hp8n1stA)
